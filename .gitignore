@@ -1,0 +1,9 @@
+# Ignorar archivos de Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+terraform.lock.hcl
+
+# Archivos sensibles en AWS
+*.pem
+*.key
