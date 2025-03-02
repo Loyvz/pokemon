@@ -3,5 +3,5 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "pokemon_platino_bucket" {
-  bucket = "pokemon-platino-bucket-gvelez" # Cambia el nombre si ya está en uso
+  bucket = "pokemon-platino-bucket-lgutierrez" # Cambia el nombre si ya está en uso
 }
